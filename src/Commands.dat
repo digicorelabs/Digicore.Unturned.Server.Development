@@ -1,0 +1,11 @@
+name Digicore: Development
+owner 76561199098167292
+port 27015
+map Washington
+mode normal
+cycle 900
+perspective Both
+log y/y/y/y
+welcome Enjoy your stay.
+maxplayers 24
+cheats enable
